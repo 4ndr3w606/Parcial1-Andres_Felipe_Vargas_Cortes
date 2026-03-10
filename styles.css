@@ -1,0 +1,10 @@
+.dark {
+    background: black;
+    color: white;
+}
+
+.titulo{
+    background-color: grey;
+    color: white;
+    text-align: center;
+}
